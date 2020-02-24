@@ -75,4 +75,7 @@ Basic Ml Concepts
 
 ## Simple linear reg.
 
-Y = Bo + B1*X [Y:dependent , X:independent]
+Y = Bo + B1*X 
+|Y = dependent| X = independent  |
+|--|--|
+|Bo = constant,intercept  |B1 = slope |
