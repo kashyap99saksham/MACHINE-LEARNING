@@ -58,14 +58,13 @@ Basic Ml Concepts
 - Reward Based Learning
 
 - maximize rewards
-
 # :star: Types of REGRESSION MODELS:
 
 - Simple linear reg.
 
 - multiple linear reg.
 
-- polynomial reg.
+- polynomial linear reg.
 
 - support vector for reg.
 
@@ -79,3 +78,11 @@ Y = Bo + B1*X
 |Y = dependent| X = independent  |
 |--|--|
 |Bo = constant,intercept  |B1 = slope |
+## Multiple linear reg.
+Y = Bo+B1*X1+B2*X2+B3*X3+....
+## Polynomial Linear
+Y =  Bo+B1*X1^1^+B2*X2^2^+B3*X3^3^+....
+### :bird: Non Linear Regression
+## Support Vector Regression
+## Decision Tree Regression
+Predict the values based upon tree
