@@ -85,5 +85,6 @@ Y =  Bo+B1*X1^1^+B2*X2^2^+B3*X3^3^+....
 ### :bird: Non Linear Regression
 ## Support Vector Regression
 ## Decision Tree Regression
-
 Predict the values based upon tree
+## Random Forest Regression
+When a decision tree is divided into sub-trees then they makes forest of many trees.	
