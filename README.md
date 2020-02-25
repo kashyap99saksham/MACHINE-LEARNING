@@ -2,6 +2,10 @@
 # :rocket: Machine-Learning-Youtube-
 
 Basic Ml Concepts
+# :boat: Two types of ML :
+    SuperVised                 UnsuperVised
+	  - Classification           - Clustering
+	  - Regression				 - Association
 
 # :books: Important libraries in ML
 
@@ -93,13 +97,35 @@ When a decision tree is divided into sub-trees then they makes forest of many tr
 	Its symbol is sigma (o-)
 	Formula : square root of variance
 # :cloud: Variance 
-	To Calculate variance , take each difference,square it,then average 			    
-     the result
+	To Calculate variance , take each difference,
+	square it,then average the result
     
 # :ring: Correlation
-    There must be cause and effect relationship,simultaneous changes 
-    in two variables.
+    There must be cause and effect relationship,
+    simultaneous changes in two variables.
     
    *formulaa* :-
  **R^2^ = ((predicted_value - mean_value)^2^/(Y_value - mean_value)^2^)^2^**
  what/how is the role of independent variable on dependent variable
+
+# * Classification *
+
+# ⭐️ Types of Classification MODELS:
+
+					  (Linear models)
+ - Logistic Regression 
+	
+						(Linear models)
+ - K-Nearest Neighbors (K-NN)
+ - Support Vector Machine
+ - Kernal SVM
+ - Naive Bayes
+ - Decision Tree Classification
+ - Random Forest Classification
+
+## Logistic Regression
+Ques.) What is difference between logistic regression and linear regression?
+
+The essential  **difference between**  these two is that  **Logistic regression**  is used when the dependent variable is binary in nature. In contrast,  **Linear regression**  is used when the dependent variable is continuous and nature of the  **regression**  line is  **linear**.
+
+==It use sigmoid function to make the curve for binary data==
