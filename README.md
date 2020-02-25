@@ -88,3 +88,18 @@ Y =  Bo+B1*X1^1^+B2*X2^2^+B3*X3^3^+....
 Predict the values based upon tree
 ## Random Forest Regression
 When a decision tree is divided into sub-trees then they makes forest of many trees.	
+# :shoe: Standard Deviation : 
+	How Much an individual data is close to mean
+	Its symbol is sigma (o-)
+	Formula : square root of variance
+# :cloud: Variance 
+	To Calculate variance , take each difference,square it,then average 			    
+     the result
+    
+# :ring: Correlation
+    There must be cause and effect relationship,simultaneous changes 
+    in two variables.
+    
+   *formulaa* :-
+ **R^2^ = ((predicted_value - mean_value)^2^/(Y_value - mean_value)^2^)^2^**
+ what/how is the role of independent variable on dependent variable
