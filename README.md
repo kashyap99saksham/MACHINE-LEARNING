@@ -129,3 +129,6 @@ Ques.) What is difference between logistic regression and linear regression?
 The essential  **difference between**  these two is that  **Logistic regression**  is used when the dependent variable is binary in nature. In contrast,  **Linear regression**  is used when the dependent variable is continuous and nature of the  **regression**  line is  **linear**.
 
 ==It use sigmoid function to make the curve for binary data==
+## K-NN(nearest Neighbour)
+	It decide the point(data) according to the 
+	nearest data point.  
